@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emial regex", "Emial regex\Emial regex.csproj", "{80811DD0-9431-4BAE-A6BE-12E79418E99E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80811DD0-9431-4BAE-A6BE-12E79418E99E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80811DD0-9431-4BAE-A6BE-12E79418E99E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80811DD0-9431-4BAE-A6BE-12E79418E99E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80811DD0-9431-4BAE-A6BE-12E79418E99E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBAC7179-F711-4CF8-8C21-3CB4E3B3BCC2}
+	EndGlobalSection
+EndGlobal
